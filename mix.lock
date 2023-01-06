@@ -1,0 +1,4 @@
+%{
+  "bakeware": {:hex, :bakeware, "0.2.4", "0aaf49b34f4bab2aa433f9ff1485d9401e421603160abd6d269c469fc7b65212", [:make, :mix], [{:elixir_make, "~> 0.6", [hex: :elixir_make, repo: "hexpm", optional: false]}], "hexpm", "7b97bcf6fbeee53bb32441d6c495bf478d26f9575633cfef6831e421e86ada6d"},
+  "elixir_make": {:hex, :elixir_make, "0.7.3", "c37fdae1b52d2cc51069713a58c2314877c1ad40800a57efb213f77b078a460d", [:mix], [{:castore, "~> 0.1", [hex: :castore, repo: "hexpm", optional: true]}], "hexpm", "24ada3e3996adbed1fa024ca14995ef2ba3d0d17b678b0f3f2b1f66e6ce2b274"},
+}
